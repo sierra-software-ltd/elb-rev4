@@ -1,8 +1,17 @@
+/* Filename    : lora_rfm95 source file
+   Description : function declarations
+   Author      : http://www.ssla.co.uk
+
+   This software is SSLA licensed
+   Unless required by applicable law or agreed to in writing, this
+   software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+   CONDITIONS OF ANY KIND, either express or implied.
+*/
+
+
 #ifndef ___LORA_RFM95_H___
 #define ___LORA_RFM95_H___ 1
 
-// Copyright (c) Sandeep Mistry. All rights reserved.
-// Licensed under the MIT license. See LICENSE file in the project root for full license information.
 #include <stdint.h>
 #include <stdbool.h>
 #define LORA_FREQUENCY_EU                          866000

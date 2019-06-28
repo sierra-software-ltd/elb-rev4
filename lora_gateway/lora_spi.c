@@ -1,3 +1,13 @@
+/* Filename    : lora_spi source file
+   Description : handles spi read/write function definations
+   Author      : http://www.ssla.co.uk
+
+   This software is SSLA licensed
+   Unless required by applicable law or agreed to in writing, this
+   software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+   CONDITIONS OF ANY KIND, either express or implied.
+*/
+
 #include "lora_spi.h"
 #include "debug.h"
 #include "os_abstraction.h"

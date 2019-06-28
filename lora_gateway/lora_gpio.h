@@ -1,3 +1,12 @@
+/* Filename    : lora_gpio source file
+   Description : configures, GPIO, handles other tasks
+   Author      : http://www.ssla.co.uk
+
+   This software is SSLA licensed
+   Unless required by applicable law or agreed to in writing, this
+   software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+   CONDITIONS OF ANY KIND, either express or implied.
+*/
 #ifndef ___LORA_GPIO_H___
 #define ___LORA_GPIO_H___ 1
 

@@ -1,3 +1,14 @@
+/* Filename    : main source file
+   Description : inits and starts lora module
+   Author      : http://www.ssla.co.uk
+
+   This software is SSLA licensed
+   Unless required by applicable law or agreed to in writing, this
+   software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+   CONDITIONS OF ANY KIND, either express or implied.
+*/
+
+
 #include <stdint.h>
 #include <stdlib.h>
 #include <stdio.h>
